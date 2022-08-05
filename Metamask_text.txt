@@ -1,1 +1,9 @@
+
 kiwi enemy body bounce rent cannon enter asset later battle distance joke
+
+commands:
+truffle test
+truffle console
+truffle migrate
+truffle compile
+truffle migrate --reset
