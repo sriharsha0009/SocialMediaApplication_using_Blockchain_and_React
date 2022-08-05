@@ -7,3 +7,4 @@ truffle console
 truffle migrate
 truffle compile
 truffle migrate --reset
+socialNetwork = await SocialNetwork.deployed()
